@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+  text-align: center;
+  color: black;
+  font-family: arial;
+}
+body{
+	color: antiquewhite;
+	background-color: antiquewhite;
+}
