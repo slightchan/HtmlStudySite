@@ -1,17 +1,25 @@
 @charset "UTF-8";
 /* CSS Document */
+header{
+	color: black;
+	text-align: center;
+}
 p {
   text-align: center;
   color: black;
   font-family: arial;
 }
 body{
-	color: antiquewhite;
-	background-color:aqua;
-	background: url(http://www.w3school.com.cn/i/eg_background.jpg);
+	background-color:darkslategray;
 }
 table{
-	color: black;
-	border-style: solid;
-	background-color: blueviolet;
+	border-style: none;
+	background-color:transparent;
+}
+th,td{
+	border-style: none;
+	background-color:darkcyan;
+}
+#prices{
+	text-align: center;
 }
